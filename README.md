@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Xin+chào!+👋;Mình+là+Bùi+Thiện+Phúc;Sinh+viên+MIS+@+Banking+Academy;AI+Enthusiast+🤖&center=true&size=30&color=58A6FF&duration=3000&pause=1000">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello!+👋;I'm+Bui+Thien+Phuc;MIS+Student+@+Banking+Academy;AI+Enthusiast+🤖&center=true&size=30&color=58A6FF&duration=3000&pause=1000">
   </a>
 </h1>
 
@@ -15,15 +15,15 @@
   Hi, I'm <b>Bùi Thiện Phúc</b> — a Management Information Systems (MIS) student at <b>Banking Academy of Vietnam</b> 🇻🇳
   <br>
   <br>
-  🎓 Sinh viên ngành Hệ thống Thông tin Quản lý (MIS) — Học viện Ngân hàng
+  🎓 Management Information Systems (MIS) Student — Banking Academy of Vietnam
   <br>
-  🤖 Yêu thích ứng dụng AI triệt để vào công việc và cuộc sống
+  🤖 Passionate about deeply applying AI into work and daily life
   <br>
-  💻 Đam mê xây dựng sản phẩm thực tế với công nghệ hiện đại
+  💻 Dedicated to building real-world products using modern technologies
   <br>
-  🌱 Luôn học hỏi và khám phá các giải pháp AI, Web Development & FinTech
+  🌱 Always learning and exploring AI solutions, Web Development & FinTech
   <br>
-  📫 Liên hệ: <a href="mailto:thiephuc.ba@gmail.com">thiephuc.ba@gmail.com</a>
+  📫 Contact me: <a href="mailto:thiephuc.ba@gmail.com">thiephuc.ba@gmail.com</a>
 </p>
 
 <hr>
@@ -83,7 +83,7 @@
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
   <a align="left" href="https://github.com/phuc2502/anson" title="Anson"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=phuc2502&repo=anson&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/phuc2502/nhom9_detai9" title="Nhóm 9 - Đề tài 9"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=phuc2502&repo=nhom9_detai9&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/phuc2502/nhom9_detai9" title="Team 9 - Topic 9"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=phuc2502&repo=nhom9_detai9&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 
